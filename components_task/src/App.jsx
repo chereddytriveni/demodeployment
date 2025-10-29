@@ -1,5 +1,5 @@
 import './App.css' 
-import Navbar from "./components/Navbar" 
+import Navbar from "./components/navbar" 
 import Bannersection from "./components/Bannersection" 
 import Productsection from "./components/Productsection" 
 import Exploreussection from "./components/Exploreussection" 
